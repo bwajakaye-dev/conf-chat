@@ -59,7 +59,7 @@ Conf-Chat is written in **Python and uses only the standard library**, so there 
 python --version
 
 # 2. Get the code
-git clone https://github.com/<your-account>/conf-chat.git
+git clone https://github.com/bwajakaye-dev/conf-chat.git
 cd conf-chat
 
 # 3. (optional) check that everything works - starts real local rings
